@@ -5,10 +5,5 @@ public class Clase{
     public Clase(){
         
     }
-}public class Clase{
-    private int id;
-    private String codigoEvento;
-    private double costoIngreso;
-    public Clase(){
-    }
 }
+
